@@ -1,0 +1,26 @@
+{
+  "name": "Async_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/async": "^3.2.5",
+    "@types/github": "^7.1.0",
+    "@types/lodash": "^4.14.168",
+    "@types/node": "^14.14.37",
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "async": "^3.2.0",
+    "github": "^14.0.0",
+    "jquery": "^3.6.0",
+    "jsdom": "^16.5.2",
+    "lodash": "^4.17.21"
+  }
+}
